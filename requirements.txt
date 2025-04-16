@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+nltk
+transformers
+pytumblr
+rake-nltk
+torch
+PyTumblr
